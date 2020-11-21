@@ -5,7 +5,7 @@ LICENSE: [MIT](license.md)
 
 ![](logo.png)
 
-### Содержание ### :
+### Содержание:
 1. [git add](add.md) ;
 2. [git status](status.md) ;
 3. [git diff](diff.md) ;
